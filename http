@@ -1,0 +1,3 @@
+HTTP- Hyper Text Transfer Protocol
+HTTP1 - The flow control mechanism in HTTP/1.1 relies on the basics TCP connection, uses a TCP connection, each connection demands an individual flow control mechanism
+HTTP2 - It supports full multiplexing for requests as well as response over a single TCP connection
