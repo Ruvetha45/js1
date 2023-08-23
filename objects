@@ -1,6 +1,10 @@
 Objects in javascript
-Objects, in JavaScript, are the most important data type and form the building blocks for modern JavaScript. 
-These objects are quite different from JavaScript’s primitive data types in the sense.
-These primitive data types all store a single value each.
-An object, is a reference data type. Variables that are assigned a reference value are given a reference or a pointer to that value.
-That reference or pointer points to the location in memory where the object is stored. The variables don't actually store the value.
+- Objects, in JavaScript, are the most important data type and form the building blocks for modern JavaScript. 
+- These objects are quite different from JavaScript’s primitive data types in the sense.
+- These primitive data types all store a single value each.
+- An object, is a reference data type. Variables that are assigned a reference value are given a reference or a pointer to that value.
+- That reference or pointer points to the location in memory where the object is stored. The variables don't actually store the value.
+- A javaScript object is an entity having state and behavior. For example: car, pen, bike, chair, glass, keyboard, monitor etc.
+- JavaScript is an object-based language.
+- Everything is an object in JavaScript.
+- JavaScript is template based not class based. Here, we don't create class to get the object. But, we direct create objects.
